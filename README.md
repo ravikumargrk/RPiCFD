@@ -1,4 +1,4 @@
-# THERMAL MODELLING OF ELECTRONIC SYSTEMS
+# Thermal modelling : Raspberry Pi
 Single board computers and microcontroller boards are often used in many automated systems. Thermal analysis of such systems is important as they are subjected to time varying and
 cyclic thermal loads and their reliability is at concern. 
 
